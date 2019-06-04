@@ -1,2 +1,1 @@
-# DS_practice
-Data Science Practice Projects
+# Practice Projects - Data Science
